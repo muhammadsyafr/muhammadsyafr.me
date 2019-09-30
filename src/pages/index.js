@@ -3,10 +3,9 @@ import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../layout'
 import PostListing from '../components/PostListing'
-import GitHubButton from 'react-github-btn'
 import SEO from '../components/SEO'
 import config from '../../data/SiteConfig'
-import photo from '../../content/images/me-lite.png'
+import photo from '../../content/images/saprol.png'
 
 export default class Index extends Component {
   render() {
@@ -15,51 +14,39 @@ export default class Index extends Component {
     
     return (
       <Layout>
-        <Helmet title={`${config.siteTitle} – Mobile Developer`} />
+        <Helmet title={`${config.siteTitle} – Junior FrontEnd`} />
         <SEO />
         <div className="container">
           <div className="lead">
             <a
-              href="https://youtube.com/ihwand"
-              target="_blank"
+              href=""
               rel="noopener noreferrer"
             >
               <img
                 src={photo}
                 className="lite-icon"
-                title="Hi i'm Ihwan"
-                alt="Hi i'm Ihwan"
+                title="Hi i'm Syafrizal"
+                alt="Hi i'm Syafrizal"
               />
             </a>
-            <h1>Hi, Saya Ihwan</h1>
+            <h1>Hi, Saya Syafrizal</h1>
             <p>
-                Saya seorang mobile developer, senang menulis dan juga sharing seputar IT di <a
-                  href="https://youtube.com/ihwand"
-                  target="blank"
-                >
-                 Youtube
-                </a>. Di sini kamu bisa membaca beberapa tulisanku. Semoga bermanfaat.
+                Saya seorang web developer, senang menulis dan juga sharing seputar IT.
+                Di sini kamu bisa membaca beberapa tulisanku. Semoga bermanfaat.
               </p>
             <div className="social-buttons">
               <div>
                 <a
                   className="twitter-follow-button"
-                  href="https://twitter.com/ihwan_id"
+                  href="https://twitter.com/muhammadsyafrzl"
                   data-size="large"
                   data-show-screen-name="false"
                 >
-                  Follow @ihwan_id
+                  Follow @muhammadsyafrzl
                 </a>
               </div>
               <div>
-                <GitHubButton
-                  href="https://github.com/ihwanid"
-                  data-size="large"
-                  data-show-count="true"
-                  aria-label="Follow @ihwanid on GitHub"
-                >
-                  Follow
-                </GitHubButton>
+                
               </div>
             </div>
           </div>

@@ -1,4 +1,4 @@
-# ihwan.id [![Netlify Status](https://api.netlify.com/api/v1/badges/5d79476b-012c-49b9-a2d9-f20c56855bd6/deploy-status)](https://app.netlify.com/sites/ihwan/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# muhammadsyafr.me [![Netlify Status](https://api.netlify.com/api/v1/badges/5d79476b-012c-49b9-a2d9-f20c56855bd6/deploy-status)](https://app.netlify.com/sites/ihwan/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Personal website running on Gatsby, React, and NodeJs.
 
@@ -7,8 +7,8 @@ Personal website running on Gatsby, React, and NodeJs.
 Run local server:
 
 ```bash
-git clone https://github.com/ihwanid/ihwan.id
-cd ihwan.id
+git clone https://github.com/#
+cd #
 yarn
 yarn run dev
 ```
@@ -17,7 +17,7 @@ Navigate to `localhost:8000`.
 
 ## Authors
 
-* **Ihwan Dede** - *Mobile Developer* - [IhwanID](https://github.com/ihwanid)
+* **Muhammad Syafrizal Noor** - *Junior Frontend* - [Muhammad Syafrizal](https://github.com/muhammadsyafr)
 
 ## License
 
@@ -25,4 +25,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+- Ihwan Dede - [IhwanID](https://github.com/ihwanid)
 - Tania Rascia - [taniarascia.com](https://github.com/taniarascia/taniarascia.com/)

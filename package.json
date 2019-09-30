@@ -1,10 +1,10 @@
 {
-  "name": "ihwan.id",
+  "name": "muhammadsyafr.me",
   "private": true,
-  "description": "Personal website running on Gatsby, React, and Node.js by Ihwan ID",
+  "description": "Personal website running on Gatsby, React, and Node.js by muhammadsyafr",
   "version": "0.1.0",
-  "author": " Ihwan <mynameisihwan@gmail.com>",
-  "repository": "git@github.com:IhwanID/ihwan.id.git",
+  "author": " syafr <muhammadsyafr@gmail.com>",
+  "repository": "",
   "dependencies": {
     "disqus-react": "^1.0.5",
     "gatsby": "2.1.23",
@@ -60,7 +60,6 @@
     "write-good": "^1.0.1"
   },
   "keywords": [
-    "ihwan id",
     "development",
     "dev",
     "tutorials",
