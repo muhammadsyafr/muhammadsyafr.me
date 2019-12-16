@@ -10,7 +10,7 @@ export default class UserInfo extends Component {
             <h1>
              I'm Syafrizal
             </h1>
-            Saya seorang web developer, senang menulis dan juga sharing seputar IT. Di sini kamu bisa membaca beberapa tulisanku. Semoga bermanfaat.
+            Saya seorang web developer asal Purwokerto & saat ini tinggal di Yogyakarta, di sini kamu bisa membaca beberapa tulisanku. Semoga bermanfaat.
               {' '}   
           </div>
           <div className="flex-avatar">

@@ -1,4 +1,4 @@
-# muhammadsyafr.me [![Netlify Status](https://api.netlify.com/api/v1/badges/5d79476b-012c-49b9-a2d9-f20c56855bd6/deploy-status)](https://app.netlify.com/sites/ihwan/deploys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# muhammadsyafr.me [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Personal website running on Gatsby, React, and NodeJs.
 
@@ -7,7 +7,7 @@ Personal website running on Gatsby, React, and NodeJs.
 Run local server:
 
 ```bash
-git clone https://github.com/#
+git clone https://github.com/muhammadsyafr/muhammadsyafr.me/#
 cd #
 yarn
 yarn run dev

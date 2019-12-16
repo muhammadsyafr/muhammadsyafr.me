@@ -31,8 +31,7 @@ export default class Index extends Component {
             </a>
             <h1>Hi, Saya Syafrizal</h1>
             <p>
-                Saya seorang web developer, senang menulis dan juga sharing seputar IT.
-                Di sini kamu bisa membaca beberapa tulisanku. Semoga bermanfaat.
+                Saya seorang web developer asal Purwokerto & saat ini tinggal di Yogyakarta, Di sini kamu bisa membaca beberapa tulisanku. Semoga bermanfaat.
               </p>
             <div className="social-buttons">
               <div>
@@ -56,11 +55,6 @@ export default class Index extends Component {
           <section className="section">
             <h2>Latest Articles</h2>
             <PostListing simple postEdges={latestPostEdges} />
-          </section>
-
-          <section className="section">
-            <h2>Most Popular</h2>
-            <PostListing simple postEdges={popularPostEdges} />
           </section>
         </div>
       </Layout>

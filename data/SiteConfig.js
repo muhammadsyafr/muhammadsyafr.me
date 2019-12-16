@@ -3,12 +3,12 @@ const config = {
   siteTitleShort: 'syafr',
   siteTitleAlt: 'muhammadsyafr',
   siteLogo: '/logos/logo.png',
-  siteUrl: 'https://muhammadsyafr.me',
-  repo: 'https://github.com/',
+  siteUrl: 'https://muhammadsyafr.netlify.com',
+  repo: 'https://github.com/https://github.com/muhammadsyafr/muhammadsyafr.me',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
-  siteDescription: 'Hi saya Syafrizal, asal Yogyakarta. Senang menulis',
+  siteDescription: 'Hi saya Syafrizal, asal Purwokerto, tinggal di Sleman, Yogyakarta.',
   siteRss: '/rss.xml',
   googleAnalyticsID: 'UA-125079658-2',
   disqusShortname: 'syafr',
@@ -27,10 +27,6 @@ const config = {
     {
       name: 'Articles',
       link: '/blog/',
-    },
-    {
-      name: 'Now',
-      link: '/now/',
     },
     {
       name: 'Contact',

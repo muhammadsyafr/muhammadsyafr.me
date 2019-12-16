@@ -4,8 +4,10 @@ slug: me
 template: page
 ---
 
-Halo saya Syafrizal, seorang Web Developer & Junior Frontend Developer, penulis dan pembelajar sepanjang masa asal Purwokerto. Saya senang membaca dan sedang mencoba menulis melalui media ini, 
+Halo saya Syafrizal,
+Saya seorang *Web developer* & *Junior Frontend* Developer asal Purwokerto saat ini tinggal di Yogyakarta, 
+Saya menyukai tentang UI Design, hobby melihat karya-karya orang lain di **dribbble.com**,
+akhir-akhir ini lagi suka nonton tentang Avitation (vlog pilot) 
+lalu akhirnya iseng dan menulis disini but, semoga bermanfaat yaa
 
-Awalnya saya membuat blog ini untuk mendokumentasikan apapun yang sudah saya pelajari dan berbagi pengalaman yang sudah saya alami. Semoga blog ini bisa berguna dan membantu para pembaca sekalian. 
-
-![Me](../images/saprol.png)
+<!-- ![Me](../images/saprol.png) -->
